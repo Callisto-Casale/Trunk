@@ -1,0 +1,65 @@
+C:\Users\calli\Coding\Trunk
+├── .git
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── HEAD
+│   ├── objects
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-9f17d90f28d3ca7cbfadb0cf45fb71b6d6dbd980.idx
+│   │       ├── pack-9f17d90f28d3ca7cbfadb0cf45fb71b6d6dbd980.pack
+│   │       └── pack-9f17d90f28d3ca7cbfadb0cf45fb71b6d6dbd980.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── HEAD
+│       └── tags
+├── .gitignore
+├── README.md
+├── build
+│   ├── bdist.win-amd64
+│   └── lib
+│       └── trunk
+│           ├── __init__.py
+│           └── cli.py
+├── pyproject.toml
+├── setup.py
+├── tree.txt
+├── trunk
+│   ├── __init__.py
+│   └── cli.py
+└── trunk_cli.egg-info
+    ├── PKG-INFO
+    ├── SOURCES.txt
+    ├── dependency_links.txt
+    ├── entry_points.txt
+    └── top_level.txt
