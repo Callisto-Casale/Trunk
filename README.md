@@ -64,3 +64,6 @@ trunk . --break .gitignore
 ```
 
 This prevents accidentally exposing ignored or sensitive files.
+
+## Disclaimer
+This tool was generated with the assistance of ChatGPT 04-mini-high.
